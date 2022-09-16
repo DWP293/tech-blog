@@ -1,0 +1,19 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DWP293/tech-blog.git"
+  },
+  "author": "Darryl Peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DWP293/tech-blog/issues"
+  },
+  "homepage": "https://github.com/DWP293/tech-blog#readme"
+}

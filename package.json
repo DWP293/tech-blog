@@ -1,7 +1,6 @@
 {
   "name": "techblog",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,15 @@
   "bugs": {
     "url": "https://github.com/DWP293/tech-blog/issues"
   },
-  "homepage": "https://github.com/DWP293/tech-blog#readme"
+  "homepage": "https://github.com/DWP293/tech-blog#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.2",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.22.0"
+  }
 }
